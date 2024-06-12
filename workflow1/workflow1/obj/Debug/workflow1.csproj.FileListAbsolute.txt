@@ -1,0 +1,10 @@
+D:\proyectos\NET\workflow1\workflow1\bin\Debug\workflow1.exe.config
+D:\proyectos\NET\workflow1\workflow1\bin\Debug\workflow1.exe
+D:\proyectos\NET\workflow1\workflow1\bin\Debug\workflow1.pdb
+D:\proyectos\NET\workflow1\workflow1\obj\Debug\workflow1.csproj.AssemblyReference.cache
+D:\proyectos\NET\workflow1\workflow1\obj\Debug\workflow1.Form1.resources
+D:\proyectos\NET\workflow1\workflow1\obj\Debug\workflow1.Properties.Resources.resources
+D:\proyectos\NET\workflow1\workflow1\obj\Debug\workflow1.csproj.GenerateResource.cache
+D:\proyectos\NET\workflow1\workflow1\obj\Debug\workflow1.csproj.CoreCompileInputs.cache
+D:\proyectos\NET\workflow1\workflow1\obj\Debug\workflow1.exe
+D:\proyectos\NET\workflow1\workflow1\obj\Debug\workflow1.pdb
